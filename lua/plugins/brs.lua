@@ -1,3 +1,0 @@
-return {
-	"chooh/brightscript.vim",
-}
